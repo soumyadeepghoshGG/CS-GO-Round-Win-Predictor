@@ -59,13 +59,13 @@ The dataset was originally published by Skybox as part of their CS:GO AI Challen
 ## Reference
 Thanks to Skybox for taking the time to sample all the snapshots and organizing the challenge. It wouldn't be possible to publish any of this without their help.
 
-Skybox website: https://skybox.gg/
-Learn more about CS:GO: https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive
-View CS:GO on Steam Store: https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
-Find in-depth information on competitive CS:GO: https://www.hltv.org/
+Skybox website: https://skybox.gg/<br>
+Learn more about CS:GO: https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive<br>
+View CS:GO on Steam Store: https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/<br>
+Find in-depth information on competitive CS:GO: https://www.hltv.org/<br>
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE]() file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/soumyadeepghoshGG/CS-GO-Round-Win-Predictor/blob/main/License.txt) file for details.
 
 ## Contact
 For questions or issues, please contact me (Soumyadeep Ghosh) via mail: soumyadeepghosh57@gmail.com
